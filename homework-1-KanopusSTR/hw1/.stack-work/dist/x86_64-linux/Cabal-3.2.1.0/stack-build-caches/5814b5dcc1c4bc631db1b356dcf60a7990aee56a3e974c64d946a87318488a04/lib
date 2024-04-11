@@ -1,0 +1,18 @@
+/home/kanopus/.ghcup/ghc/8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+/home/kanopus/Haskell/homework-1-KanopusSTR/hw1/.stack-work/dist/x86_64-linux/Cabal-3.2.1.0/build/autogen/Paths_hw1.hs:
+  hash: e3c6605b33a0d9854a115d71ea4129c38fcda0ab00e55976d56018d5c3180ffb
+/home/kanopus/Haskell/homework-1-KanopusSTR/hw1/.stack-work/dist/x86_64-linux/Cabal-3.2.1.0/build/autogen/cabal_macros.h:
+  hash: 921cfd4493475414927d77332728282191ae296fb19b18667c271a05cffd66d9
+/home/kanopus/Haskell/homework-1-KanopusSTR/hw1/hw1.cabal:
+  hash: 05762793e9db94fd6ae6e05eed374fcd25134fa65ae8fe390c2abb58e2404e18
+/home/kanopus/Haskell/homework-1-KanopusSTR/hw1/package.yaml:
+  hash: abfd9131e2972041e2c71679f0eea04a6de14f768b65b9348315b34f4b4aef94
+/home/kanopus/Haskell/homework-1-KanopusSTR/hw1/src/HW1/T1.hs:
+  hash: 8e3327f20d38f39ed3e152195f034448a88f88c6bb64f935569f95f97ad2c6e5
+/home/kanopus/Haskell/homework-1-KanopusSTR/hw1/src/HW1/T2.hs:
+  hash: 79d619138d9d60da1081906a682526b983f9b5645fb9e147a5fb603408c45c5d
+/home/kanopus/Haskell/homework-1-KanopusSTR/hw1/src/HW1/T3.hs:
+  hash: fedcdd049c03ae1119795de0f52a27cb2a94716a564b3dd272d3be990554c3ac
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3
